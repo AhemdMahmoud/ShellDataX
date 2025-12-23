@@ -1,4 +1,7 @@
 # ShellDataX
+
+<img width="1686" height="647" alt="image" src="https://github.com/user-attachments/assets/e76ca04e-07cd-4512-8a43-05a8dba7a3e6" />
+
 ```
 DBMS_Project/
 │
